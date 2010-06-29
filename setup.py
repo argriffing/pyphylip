@@ -1,7 +1,7 @@
 
 from distutils.core import setup
 
-from pyphylip import pyphylip_version
+from pyphylip import __version__ as pyphylip_version
 
 
 classifiers = [
