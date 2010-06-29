@@ -1,0 +1,4 @@
+include COPYING
+include README.rst
+include setup.py
+include pyphylip.py
